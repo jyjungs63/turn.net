@@ -1,0 +1,8 @@
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\MoralesLarios.WPFClientTests.csprojAssemblyReference.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\MainWindow.baml
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\Skins\MainSkin.baml
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\MainWindow.g.cs
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\App.g.cs
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\MoralesLarios.WPFClientTests_MarkupCompile.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.WPFClientTests\obj\Debug\MoralesLarios.WPFClientTests_MarkupCompile.lref

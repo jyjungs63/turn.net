@@ -1,0 +1,3 @@
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\WpfSressTests\obj\Debug\WpfSressTests.csprojAssemblyReference.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\WpfSressTests\obj\Debug\App.g.cs
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\WpfSressTests\obj\Debug\WpfSressTests_MarkupCompile.cache

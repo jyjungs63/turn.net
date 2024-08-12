@@ -1,0 +1,2 @@
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.CustomsControls\obj\Debug\MoralesLarios.CustomsControls.csprojAssemblyReference.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.CustomsControls\obj\Debug\MoralesLarios.CustomsControls_MarkupCompile.cache

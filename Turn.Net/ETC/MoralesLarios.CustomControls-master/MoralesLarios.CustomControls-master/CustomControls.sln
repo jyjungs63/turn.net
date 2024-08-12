@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.WPFClientTests", "MoralesLarios.WPFClientTests\MoralesLarios.WPFClientTests.csproj", "{440DB6F1-94CA-41B8-A71D-60A635A79B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.CustomsControls", "MoralesLarios.CustomsControls\MoralesLarios.CustomsControls.csproj", "{ECC6B608-D349-4A79-ABFD-3EB6C131C3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.CustomsControls.Tests", "MoralesLarios.CustomsControls.Tests\MoralesLarios.CustomsControls.Tests.csproj", "{39FFDE3B-F490-4F39-A38E-FDB5CE3766E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSressTests", "WpfSressTests\WpfSressTests.csproj", "{850DEDE9-3AF9-4D25-A8AA-36E0C5C4B443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{9ACED6F9-6934-40CC-A7DA-D60B41D92A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.Utilities", "MoralesLarios.Utilities\MoralesLarios.Utilities.csproj", "{A78A19BD-9DEF-4E0D-8F41-1249E637CDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.Utilities.ClientTests", "MoralesLarios.Utilities.ClientTests\MoralesLarios.Utilities.ClientTests.csproj", "{0A32ECEE-14B3-44B8-8BD8-7186558DFC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440DB6F1-94CA-41B8-A71D-60A635A79B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440DB6F1-94CA-41B8-A71D-60A635A79B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440DB6F1-94CA-41B8-A71D-60A635A79B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440DB6F1-94CA-41B8-A71D-60A635A79B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC6B608-D349-4A79-ABFD-3EB6C131C3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC6B608-D349-4A79-ABFD-3EB6C131C3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC6B608-D349-4A79-ABFD-3EB6C131C3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC6B608-D349-4A79-ABFD-3EB6C131C3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FFDE3B-F490-4F39-A38E-FDB5CE3766E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FFDE3B-F490-4F39-A38E-FDB5CE3766E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FFDE3B-F490-4F39-A38E-FDB5CE3766E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FFDE3B-F490-4F39-A38E-FDB5CE3766E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850DEDE9-3AF9-4D25-A8AA-36E0C5C4B443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850DEDE9-3AF9-4D25-A8AA-36E0C5C4B443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850DEDE9-3AF9-4D25-A8AA-36E0C5C4B443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850DEDE9-3AF9-4D25-A8AA-36E0C5C4B443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78A19BD-9DEF-4E0D-8F41-1249E637CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78A19BD-9DEF-4E0D-8F41-1249E637CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78A19BD-9DEF-4E0D-8F41-1249E637CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78A19BD-9DEF-4E0D-8F41-1249E637CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A32ECEE-14B3-44B8-8BD8-7186558DFC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A32ECEE-14B3-44B8-8BD8-7186558DFC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A32ECEE-14B3-44B8-8BD8-7186558DFC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A32ECEE-14B3-44B8-8BD8-7186558DFC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

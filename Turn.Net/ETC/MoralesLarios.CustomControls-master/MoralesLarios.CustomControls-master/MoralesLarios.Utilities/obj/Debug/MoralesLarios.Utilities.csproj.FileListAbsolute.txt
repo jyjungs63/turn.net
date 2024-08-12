@@ -1,0 +1,13 @@
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\bin\Debug\MoralesLarios.Utilities.dll
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\bin\Debug\MoralesLarios.Utilities.pdb
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.csprojAssemblyReference.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities_MarkupCompile.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities_MarkupCompile.lref
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\Themes\Generic.baml
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.g.resources
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.Properties.Resources.resources
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.csproj.GenerateResource.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.csproj.CoreCompileInputs.cache
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.dll
+C:\Develop\Turn.Net\ETC\MoralesLarios.CustomControls-master\MoralesLarios.CustomControls-master\MoralesLarios.Utilities\obj\Debug\MoralesLarios.Utilities.pdb

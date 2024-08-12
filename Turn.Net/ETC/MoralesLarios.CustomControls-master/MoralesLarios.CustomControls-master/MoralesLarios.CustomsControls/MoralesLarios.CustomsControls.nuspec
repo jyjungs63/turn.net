@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MoralesLarios.CustomsControls</id>
+    <version>1.0.0.10</version>
+    <title>CustomsControls</title>
+    <authors>Juan Francisco Morales Larios</authors>
+    <owners>Juan Francisco Morales Larios</owners>
+    <projectUrl>https://github.com/moraleslarios/MoralesLarios.CustomControls</projectUrl>
+    <iconUrl>https://drive.google.com/open?id=0B2hueHRCv0E7Vzd6NDZaOV9WQTg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>XAML Customs Controls</description>
+    <releaseNotes>Version 1.0</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Morales Larios MoralesLarios Customs Controls WPF XAML</tags>	
+	<frameworkAssemblies>
+    <frameworkAssembly assemblyName="Microsoft.Expression.Interactions.dll"  />
+
+    <frameworkAssembly assemblyName="System.Windows.Interactivity.dll" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

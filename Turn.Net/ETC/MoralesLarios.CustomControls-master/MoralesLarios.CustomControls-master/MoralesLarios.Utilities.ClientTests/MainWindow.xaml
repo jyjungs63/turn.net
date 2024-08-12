@@ -1,0 +1,57 @@
+﻿<Window x:Class="MoralesLarios.Utilities.ClientTests.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoralesLarios.Utilities.ClientTests"
+        xmlns:ml="clr-namespace:MoralesLarios.Utilities.Excel;assembly=MoralesLarios.Utilities"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="850" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="13*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="bt" Content="cambiar" Click="bt_Click"/>
+        <ListBox x:Name="lstDatos" SelectionMode="Multiple" 
+                 ml:ExcelActions.EnabledPasteExcel="False" 
+                 ml:ExcelActions.EnabledCopyExcel="False" 
+                 ml:ExcelActions.ContainsHeader="True" 
+                 ml:ExcelActions.CreateContextMenu="True" 
+                 ml:ExcelActions.ColorFlash="AliceBlue" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" Margin="8"/>
+                        <TextBlock Text="{Binding City}" Margin="8"/>
+                        <TextBlock Text="{Binding Sales}" Margin="8"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <DataGrid x:Name="dgDatos" Grid.Row="2" RowBackground="Transparent" AutoGenerateColumns="True" 
+                  ml:ExcelActions.EnabledPasteExcel="True" 
+                  ml:ExcelActions.EnabledCopyExcel="True" 
+                  ml:ExcelActions.ContainsHeader="False" 
+                  ml:ExcelActions.CreateContextMenu="True" 
+                  ml:ExcelActions.PaintFlash="True"/>
+        <ListBox x:Name="lswDatos" Grid.Row="3"  SelectionMode="Multiple"  
+                 ml:ExcelActions.EnabledPasteExcel="False" 
+                 ml:ExcelActions.EnabledCopyExcel="True" 
+                 ml:ExcelActions.ContainsHeader="True" 
+                 ml:ExcelActions.CreateContextMenu="True" 
+                 ml:ExcelActions.ColorFlash="Red">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" Margin="8"/>
+                        <TextBlock Text="{Binding City}" Margin="8"/>
+                        <TextBlock Text="{Binding Sales}" Margin="8"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
